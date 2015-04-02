@@ -1,0 +1,3943 @@
+Initialize engine version: 4.2.2f1 (54f0fc09defb)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4052]
+    Renderer: NVIDIA GeForce GTX 580
+    Vendor:   NVIDIA
+    VRAM:     3018 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Default GameObject Tag: Trap already registered
+ 
+(Filename:  Line: 83)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\doropbox\Dropbox\DREAMofELLY_v1.02\DREAMofELLY_v1.02_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\doropbox\Dropbox\DREAMofELLY_v1.02\DREAMofELLY_v1.02_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\doropbox\Dropbox\DREAMofELLY_v1.02\DREAMofELLY_v1.02_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\doropbox\Dropbox\DREAMofELLY_v1.02\DREAMofELLY_v1.02_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.093 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+UnloadTime: 11.313216 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3332.
+Total: 1.897459 ms (FindLiveObjects: 0.164510 ms CreateObjectMapping: 0.072445 ms MarkObjects: 0.602502 ms  DeleteObjects: 0.376412 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BoxDamage.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+UnloadTime: 6.840331 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2084 unused Assets to reduce memory usage. Loaded Objects now: 186.
+Total: 6.915795 ms (FindLiveObjects: 0.071841 ms CreateObjectMapping: 0.035015 ms MarkObjects: 0.074558 ms  DeleteObjects: 6.265298 ms)
+
+UnloadTime: 0.428935 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 149.
+Total: 10.930766 ms (FindLiveObjects: 0.012074 ms CreateObjectMapping: 0.017205 ms MarkObjects: 0.078180 ms  DeleteObjects: 10.190014 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+UnloadTime: 0.586503 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3358.
+Total: 2.345109 ms (FindLiveObjects: 0.161794 ms CreateObjectMapping: 0.063691 ms MarkObjects: 0.674041 ms  DeleteObjects: 0.835534 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+UnloadTime: 5.310531 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2084 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 8.203508 ms (FindLiveObjects: 0.091462 ms CreateObjectMapping: 0.045881 ms MarkObjects: 0.156662 ms  DeleteObjects: 7.333562 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+UnloadTime: 0.600087 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3355.
+Total: 1.307936 ms (FindLiveObjects: 0.084217 ms CreateObjectMapping: 0.032298 ms MarkObjects: 0.374299 ms  DeleteObjects: 0.470591 ms)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BoxDamage.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 62)
+
